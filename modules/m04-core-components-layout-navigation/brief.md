@@ -15,7 +15,10 @@ areas, the keyboard, dark mode and basic accessibility.
 ## Scope
 
 - `View`, `Text`, `Image`, `ScrollView`, `Pressable`, `TextInput` and `FlatList`.
-- Flexbox layout, `StyleSheet`, and keeping a small set of consistent design tokens.
+- Flexbox layout, `StyleSheet`, and keeping a small set of consistent design tokens. NativeWind
+  (Tailwind-style utility classes for React Native) is a documented optional alternative to
+  `StyleSheet` — ask your trainer whether this cohort allows it. `StyleSheet` is the default, and
+  the checkpoint doesn't care which one you used, only that the screens actually meet it.
 - Safe areas and window changes (resizable iPhone windows on iOS 27, foldables).
 - Keyboard handling.
 - Dark mode and dynamic text size.
@@ -29,6 +32,9 @@ areas, the keyboard, dark mode and basic accessibility.
 - Same pins as M01–M03. React Navigation: current stable major — confirm which one with your
   trainer at the start of this module (it moves fast; don't assume it's still the version from when
   this brief was written).
+- Optional: NativeWind, if your trainer confirms this cohort allows it in place of `StyleSheet`. It
+  adds a Babel/Metro config step and a dependency you'd then track against every Expo SDK upgrade —
+  weigh that against the typing-speed win before you install it.
 
 ## Deliverable
 

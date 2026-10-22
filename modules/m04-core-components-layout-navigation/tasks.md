@@ -10,6 +10,8 @@ areas, the keyboard, dark mode and basic accessibility.
 - [ ] Read this stage's `brief.md` fully.
 - [ ] Confirm with your trainer: which React Navigation major this cohort pins (don't assume the
       brief's version is still current — it moves fast).
+- [ ] Confirm with your trainer: whether this cohort allows NativeWind in place of `StyleSheet` for
+      this module (the default is `StyleSheet`; the checkpoint doesn't care which one you pick).
 - [ ] Research the core components you'll build with: `View`, `Text`, `Image`, `ScrollView`,
       `Pressable`, `TextInput`, `FlatList`.
 - [ ] Research Flexbox layout, `StyleSheet`, and how to keep a small set of consistent design

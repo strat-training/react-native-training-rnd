@@ -21,8 +21,9 @@ your three screens as the worked example.
 
 ## Concepts worth explaining
 
-Pick 1-2 ideas — Flexbox layout, safe areas across different device shapes, or what the Strict
-TypeScript API changes in how you write components — and explain each in your own words.
+Pick 1-2 ideas — Flexbox layout, safe areas across different device shapes, what the Strict
+TypeScript API changes in how you write components, or (if you used it) what NativeWind trades off
+against `StyleSheet` — and explain each in your own words.
 
 ## What tripped me up
 
